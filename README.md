@@ -1,5 +1,10 @@
 # Proxy Setup (Dante + HAProxy)
 
+
+![haproxy](https://github.com/user-attachments/assets/e8e73351-f38a-4b3f-935f-f18b51933c11)
+
+
+
 ## Overview
 This setup provides a **SOCKS5 proxy network** using **Dante** and **HAProxy**. The system dynamically fetches and updates proxy lists, ensuring traffic is load-balanced across multiple SOCKS5 proxies for improved performance and flexibility.
 
