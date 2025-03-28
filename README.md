@@ -1,7 +1,6 @@
 # Proxy Setup (Dante + HAProxy)
 
-
-![haproxy](https://github.com/user-attachments/assets/e8e73351-f38a-4b3f-935f-f18b51933c11)
+![banner](https://github.com/user-attachments/assets/29e4d2fd-fdb8-4165-aa54-b14cbbf2f3b4)
 
 
 
